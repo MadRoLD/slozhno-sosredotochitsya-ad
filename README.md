@@ -1,4 +1,4 @@
-![image](https://github.com/DenisNasekin/slozhno-sosredotochitsya/assets/140427738/51a00007-0738-42b1-8f92-cf8ec8142741)
+![image](https://github.com/MadRoLD/slozhno-sosredotochitsya-ad)
 
 # Проектная работа slozhno-sosredotochitsya
 Проект выполнен в рамках учебного курса "Фронтенд разработчик" Яндекс.Практикума<br>
